@@ -1,2 +1,2 @@
 # SupplementaryMaterials
-Additional Supplementary Materials.
+Additional Supplementary Materials relating to **MorphCurveVAE**.
